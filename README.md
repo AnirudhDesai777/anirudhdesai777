@@ -2,8 +2,10 @@
 
 I am Anirudh Belaguppa Manjunath
 
-I am currently pursuing my MS in Artificial Intelligence at Northeastern University.  
-I am passionate about anything related to AI with experience as a Machine Learning Engineer, developing trading strategies leveraging machine learning and data science.
+TL;DR:
+- Deep Learning Intern at SeaDeep working on AI systems for underwater tech
+- Currnelty pursuing MS in AI at Northeastern University
+- Nearly 2 year of work ex as AI Engineer, developed autonomous quantitative strategies 
 
 - 🔭 I’m currently working on ... Underwater Computer Vision, Mental Health Supoort Tech using GenAI
 - 🌱 I’m currently learning ... Game Theory, Quant Finance using Machine Learning
