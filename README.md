@@ -7,7 +7,7 @@ TL;DR:
 - Currnelty pursuing MS in AI at Northeastern University
 - Nearly 2 year of work ex as AI Engineer, developed autonomous quantitative strategies 
 
-- 🔭 I’m currently working on ... Underwater Computer Vision, Mental Health Supoort Tech using GenAI
+- 🔭 I’m currently working on ... Underwater AI systems, Mental Health Supoort Tech using GenAI
 - 🌱 I’m currently learning ... Game Theory, Quant Finance using Machine Learning
 ### 📫 How to reach me:
 
