@@ -5,9 +5,8 @@ I am Anirudh Belaguppa Manjunath
 I am currently pursuing my MS in Artificial Intelligence at Northeastern University.  
 I am passionate about anything related to AI with experience as a Machine Learning Engineer, developing trading strategies leveraging machine learning and data science.
 
-- 🔭 I’m currently working on ... Computational Drug Discovery
-- 🌱 I’m currently learning ...Computational Drug Discovery, Quant Finance using Machine Learning
-- 💬 Let's about ... Deep learning using Quantum Computing
+- 🔭 I’m currently working on ... Underwater Computer Vision, Mental Health Supoort Tech using GenAI
+- 🌱 I’m currently learning ... Game Theory, Quant Finance using Machine Learning
 ### 📫 How to reach me:
 
 <p align="left">
