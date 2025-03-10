@@ -3,12 +3,10 @@
 I am Anirudh Belaguppa Manjunath
 
 TL;DR:
-- Deep Learning Intern at SeaDeep working on AI systems for underwater tech
+- Deep Learning Intern at SeaDeep working on AI systems for underwater tech (Jul 2024 - Dec 2024)
+- AI & ML Engineeer at Cybint Solutions Pvt. Ltd. developing algorithmic trading strategies using AI (Aug 2022 - Aug 2023)
 - Currently pursuing MS in AI at Northeastern University
 
-
-- 🔭 I’m currently working on ... Underwater AI systems, Mental Health Supoort Tech using GenAI
-### 📫 How to reach me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anirudh-b-m">
